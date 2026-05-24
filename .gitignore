@@ -176,5 +176,4 @@ node_modules/
 __marimo__
 marimo.toml
 cache.duckdb
-uv.lock
 logs/
